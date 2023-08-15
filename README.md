@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guangyi @guangyliu
 - 👀 I’m interested in text generation and text generative models.
-- 🌱 I’m currently a Ph.D. student in CUHK-Shenzhen.
+- 🌱 I’m currently a Postdoctoral Fellow in MBZUAI.
 - 💞️ I’m looking to collaborate on related research topics.
 - 📫 How to reach me: guangyi.liu@mbzuai.ac.ae
 
