@@ -2,7 +2,7 @@
 - 👀 I’m interested in text generation and text generative models.
 - 🌱 I’m currently a Ph.D. student in CUHK-Shenzhen.
 - 💞️ I’m looking to collaborate on related research topics.
-- 📫 How to reach me: guangyiliu@link.cuhk.edu.cn
+- 📫 How to reach me: guangyi.liu@mbzuai.ac.ae
 
 <!---
 guangyliu/guangyliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
